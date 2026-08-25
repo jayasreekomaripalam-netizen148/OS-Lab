@@ -1,0 +1,12 @@
+*.o
+binary_tree
+chain_recursive
+chain_nonrecursive
+cp
+mv
+perror_file
+pipe_ipc
+source.txt
+destination.txt
+old.txt
+new.txt
